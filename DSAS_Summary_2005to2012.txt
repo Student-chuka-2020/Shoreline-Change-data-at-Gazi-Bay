@@ -1,0 +1,69 @@
+﻿File name: DSAS_Summary_trans_20220901_132900.txt
+Timestamp of rate calculation: 09/01/2022 13:29:03
+DSAS version: 5.1.20200720.0030
+ArcGIS version: 10.5
+Rate types run: EPR
+Baseline layer: Baseline_
+Shoreline layer: Shoreline_
+Shoreline dates used: 2/14/2005, 10/28/2012
+Shoreline threshold: 0
+Confidence Interval (CI) selected: 95
+Default Uncertainty: 10
+Transect spacing length: 50
+Smoothing distance: 1000
+Coordinate system: WGS_1984_UTM_Zone_37S
+Is bias applied: NO
+
+All rates reported are in meters/year, distance values are in meters.
+
+
+RATE: EPR (End Point Rate, m/yr)
+
+EPR OVERALL AVERAGES: 
+total number of transects: 82
+average rate: -1.18
+average of the confidence intervals associated with rates: 1.84
+reduced n (number of independent transects): 1
+uncertainty of the average rate using reduced n: 1.84
+average rate with reduced n uncertainty: -1.18 +/- 1.84
+
+number of erosional transects: 55
+percent of all transects that are erosional: 67.07%
+percent of all transects that have statistically significant erosion: 19.51%
+maximum value erosion: -11.76
+maximum value erosion transect ID: 78
+average of all erosional rates: -2.63
+
+number of accretional transects: 27
+percent of all transects that are accretional: 32.93%
+percent of all transects that have statistically significant accretion: 15.85%
+maximum value accretion: 5.48
+maximum value accretion transect ID: 16
+average of all accretional rates: 1.78
+
+
+
+RATE: LRR (Linear Regression Rate, m/yr)
+
+LRR OVERALL AVERAGES: 
+total number of transects: 
+average rate: 
+average of the confidence intervals associated with rates: 
+reduced n (number of independent transects): 0
+uncertainty of the average rate using reduced n: 
+average rate with reduced n uncertainty:  +/- 
+
+number of erosional transects: 
+percent of all transects that are erosional: 0%
+percent of all transects that have statistically significant erosion: 0%
+maximum value erosion: 
+maximum value erosion transect ID: 
+average of all erosional rates: 
+
+number of accretional transects: 
+percent of all transects that are accretional: 0%
+percent of all transects that have statistically significant accretion: 0%
+maximum value accretion: 
+maximum value accretion transect ID: 
+average of all accretional rates: 
+
