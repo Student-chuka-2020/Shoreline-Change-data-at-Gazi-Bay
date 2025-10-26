@@ -1,6 +1,6 @@
 This repository contains data for shoreline change data at Gazi Bay Kenya.
 
-To download/view the file,
+To download/view xls file,
 click the file then view raw.
 
 
