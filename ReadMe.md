@@ -1,4 +1,6 @@
-This repository contains data for shoreline change at Gazi Bay Kenya.
+##Impacts of shoreline change on nearshore marine environment at Gazi Bay, Kenya, - Mangrove Forest
+
+###This repository contains data for the Impacts of shoreline change on nearshore marine environment at Gazi Bay, Kenya, .
 
 To download/view xls file,
 click the file then view raw.
