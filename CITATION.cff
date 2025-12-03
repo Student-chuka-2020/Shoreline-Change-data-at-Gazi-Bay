@@ -3,6 +3,8 @@ message: "If you use this dataset or any part of this project, please cite it us
 
 title: "Shoreline Change Data at Gazi Bay"
 
+type: dataset
+
 authors:
   - family-names: "Mwangi"
     given-names: "Pauline N."
